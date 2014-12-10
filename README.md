@@ -7,7 +7,7 @@ This project forms part of the 'Getting and Cleaning Data' course.
 The purpose of the project is to demonstrate how to collect, work with, and clean a data set. 
 The goal is to prepare tidy data that can be used for later analysis.
 
-## The Data Set
+### The Data Set
 
 The data is from a Human Activity Recognition Using Smartphones Data Set, which is obtained from:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
@@ -16,7 +16,7 @@ The data set consists of data collected from the accelerometers from a Samsung G
 during experiments carried out on a group of 30 volunteers performing 6 different activities.
 
  
-## The Run Analysis Script
+### The Run Analysis Script
 
 The script performs the following:
 
