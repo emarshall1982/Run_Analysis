@@ -31,13 +31,13 @@ Run_Analysis.R script performs the following steps to generate tidy_data.txt:
 	Levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
 
 
- 3.  tBodyAcc.mean...X              
- 4.  tBodyAcc.mean...Y              
- 5.  tBodyAcc.mean...Z              
- 6.  tBodyAcc.std...X               
- 7.  tBodyAcc.std...Y               
- 8.  tBodyAcc.std...Z               
- 9.  tGravityAcc.mean...X           
+3.  tBodyAcc.mean...X              
+4.  tBodyAcc.mean...Y              
+5.  tBodyAcc.mean...Z              
+6.  tBodyAcc.std...X               
+7.  tBodyAcc.std...Y               
+8.  tBodyAcc.std...Z               
+9.  tGravityAcc.mean...X           
 10.  tGravityAcc.mean...Y           
 11.  tGravityAcc.mean...Z           
 12.  tGravityAcc.std...X            
