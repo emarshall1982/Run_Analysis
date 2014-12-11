@@ -19,11 +19,11 @@ Run_Analysis.R script performs the following steps to generate tidy_data.txt:
 
 ### Variables
 
-Subject
+*  Subject  
 	Integer values used to identify test volunteer.
 	Levels: 1 to 30.
 
-Activity
+*  Activity  
 	Character values denoting the type of activity.
 	Levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
          
